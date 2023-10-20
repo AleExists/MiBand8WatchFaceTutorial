@@ -1,5 +1,5 @@
 Things to note:
-
+* This is not the official guide
 * This guide is only for creating watchfaces and AOD from scratch, since you cannot import .bin files (watchfaces files) into the software \[[GitHub](https://github.com/m0tral/EasyFace)\]
 * The official software wiki can be found [here](https://github.com/m0tral/EasyFace/wiki)
 * you can find more information on telegram \[[Official channel](https://t.me/s/mi_watch_news) and [discussion](https://t.me/mi_watch_int)\]
