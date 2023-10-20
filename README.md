@@ -17,7 +17,7 @@ Things you'll need \[watchface\]:
 
 How to make the watchface:
 
-1. Start by opening EasyFace (as admin) and creating a new project \[select mi band 8\] [(see image)](https://imgur.com/a/tkxPrQj)
+1. Start by opening EasyFace (as admin) and creating a new project \[select mi band 8 / 8 pro\] [(see image)](https://imgur.com/a/tkxPrQj)
 2. Place your assets inside the folder "images" (inside the project folder in the directory you selected), subfolders won't work [(see image)](https://imgur.com/a/yJPRWac)
 3. You'll find your numbers and background in the left panel [(image browsing)](https://imgur.com/a/HyuLsml)
 4. Drag and drop the background on the watch preview and put as coordinates (x, y) 0 in the right panel (attributes) [(see video)](https://imgur.com/a/enkSJKV)
