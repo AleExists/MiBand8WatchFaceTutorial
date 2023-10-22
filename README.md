@@ -13,7 +13,7 @@ Things you'll need \[watchface\]:
 
 * images of the numbers you'll use (they all have to be the same resolution)
    * You'll also need 4 extra copy of a number to use as the negative sign \*
-* a background (192x420 pixels (8) or 336x480 pixels (8 pro)), otherwise it'll remain black
+* a background (192x490 pixels (8) or 336x480 pixels (8 pro)), otherwise it'll remain black
 
 How to make the watchface:
 
